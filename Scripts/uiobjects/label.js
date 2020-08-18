@@ -2,7 +2,7 @@ var UIObjects;
 (function (UIObjects) {
     class Label extends createjs.Text {
         // CONSTRUCTOR(S)
-        constructor(text = "", font_size = "20px", font_family = "Consolas", font_colour = "#000000", x = 0, y = 0, isCentered = false) {
+        constructor(text = "", font_size = "20px", font_family = "Consolas", font_colour = "#000000", x = 0, y = 0, isCentered = true) {
             super(text, font_size + " " + font_family, font_colour);
             this.isCentered = isCentered;
             this.x = x;

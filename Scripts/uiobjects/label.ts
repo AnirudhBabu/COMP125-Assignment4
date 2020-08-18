@@ -32,7 +32,7 @@ module UIObjects
             font_size: string = "20px", 
             font_family:string="Consolas", 
             font_colour:string="#000000", 
-            x:number = 0, y:number=0, isCentered:boolean = false)
+            x:number = 0, y:number=0, isCentered:boolean = true)
         {
             super(text, font_size + " " + font_family, font_colour);
 
