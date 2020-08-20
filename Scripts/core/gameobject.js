@@ -1,3 +1,9 @@
+/*File name: gameobject.ts
+  Author's Name: Anirudh Babu
+  Student no.: 301105250
+  File description: Inherits from the class responsible for images and provides a base for
+  creation of objects such as buttons
+*/
 var Core;
 (function (Core) {
     class GameObject extends createjs.Bitmap {

@@ -1,3 +1,8 @@
+/*File name: app.ts
+  Author's Name: Anirudh Babu
+  Student no.: 301105250
+  File description: Responsible for being a base for button objects
+*/
 var UIObjects;
 (function (UIObjects) {
     class Button extends Core.GameObject {

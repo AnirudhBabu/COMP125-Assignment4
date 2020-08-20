@@ -1,4 +1,7 @@
-var Config;
+/*File name: globals.ts
+  Author's Name: Anirudh Babu
+  Student no.: 301105250
+*/ var Config;
 (function (Config) {
     class Globals {
     }

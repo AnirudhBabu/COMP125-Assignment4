@@ -4,7 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.5.2",
     "easeljs": "^1.0.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
     "preloadjs": "^1.0.1",
     "soundjs": "^1.0.1",
     "tweenjs": "^1.0.2"

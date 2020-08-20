@@ -1,3 +1,9 @@
+/*File name: label.ts
+  Author's Name: Anirudh Babu
+  Student no.: 301105250
+  File description: Inherits from createjs.Text and is responsible for providing a base for creation of text
+  labels
+*/
 var UIObjects;
 (function (UIObjects) {
     class Label extends createjs.Text {
